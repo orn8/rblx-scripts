@@ -28,13 +28,6 @@ Universal:AddButton({
 })
 
 Universal:AddButton({
-    Name = "Infinite Yield (Hydrogen)",
-	Callback = function()
-      	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/InfiniteYield-Hydrogen.lua')))()
-  	end
-})
-
-Universal:AddButton({
     Name = "Silent Aim",
 	Callback = function()
       	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/SilentAim.lua')))()
