@@ -27,13 +27,6 @@ Universal:AddButton({
   	end
 })
 
-Universal:AddButton({
-    Name = "Silent Aim",
-	Callback = function()
-      	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/SilentAim.lua')))()
-  	end
-})
-
 -- Item Asylum Scripts
 if game.placeId == 5670218884 then
 
