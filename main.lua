@@ -42,23 +42,23 @@ if game.placeId == 5670218884 then
     })
 
     ItemAsylum:AddButton({
-        Name = "Script 1",
+        Name = "GUI 1",
         Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/1.lua')))()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI1.lua')))()
         end
     })
 
     ItemAsylum:AddButton({
-        Name = "Script 2",
+        Name = "GUI 2",
         Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/2.lua')))()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI2.lua')))()
         end
     })
 
     ItemAsylum:AddButton({
-        Name = "Script 3",
+        Name = "GUI 3",
         Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/3.lua')))()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI3.lua')))()
         end
     })
 
