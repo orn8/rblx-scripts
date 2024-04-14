@@ -16,12 +16,12 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/ma
 
 ### Evade
 
-* GUI 1 - https://github.com/tbao143/thaibao/blob/main/TbaoHubEvade
+* Tbao Hub - https://github.com/tbao143/thaibao/blob/main/TbaoHubEvade
 
 ### Item Asylum
 
 * GUI 1 - https://pastebin.com/Z4qVL5tM
-* GUI 2 - https://github.com/whierror/Item-Asylum-Haxx/blob/main/Source
-* GUI 3 - https://pastebin.com/tJegb7fJ
+* Item Asylum Haxx - https://github.com/whierror/Item-Asylum-Haxx/blob/main/Source
+* not fair hub - https://pastebin.com/tJegb7fJ
 
 </blockquote>

@@ -37,7 +37,7 @@ if game.placeId == 9872472334 then
     ItemAsylum:AddButton({
         Name = "GUI 1",
         Callback = function()
-            loadstring(game:HttpGet(("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/GUI1.lua")))()
+            loadstring(game:HttpGet(("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/TbaoHub.lua")))()
         end
     })
 
@@ -60,14 +60,14 @@ if game.placeId == 5670218884 then
     ItemAsylum:AddButton({
         Name = "GUI 2",
         Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI2.lua')))()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/ItemAsylumHaxx.lua')))()
         end
     })
 
     ItemAsylum:AddButton({
         Name = "GUI 3",
         Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI3.lua')))()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/notfairhub.lua')))()
         end
     })
 
