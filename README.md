@@ -15,6 +15,10 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/ma
 * Infinite Yield - https://github.com/EdgeIY/infiniteyield/blob/master/source
 * Silent Aim - https://github.com/Averiias/Universal-SilentAim/blob/main/main.lua
 
+### Evade
+
+* GUI 1 - https://github.com/tbao143/thaibao/blob/main/TbaoHubEvade
+
 ### Item Asylum
 
 * GUI 1 - https://pastebin.com/Z4qVL5tM

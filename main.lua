@@ -27,6 +27,22 @@ Universal:AddButton({
   	end
 })
 
+-- Evade Scripts
+if game.placeId == 9872472334 then
+
+    local ItemAsylum = Window:MakeTab({
+        Name = "Evade"
+    })
+
+    ItemAsylum:AddButton({
+        Name = "GUI 1",
+        Callback = function()
+            loadstring(game:HttpGet(("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/GUI1.lua")))()
+        end
+    })
+
+end
+
 -- Item Asylum Scripts
 if game.placeId == 5670218884 then
 
