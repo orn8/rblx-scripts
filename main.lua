@@ -30,12 +30,12 @@ Universal:AddButton({
 -- Evade Scripts
 if game.placeId == 9872472334 then
 
-    local ItemAsylum = Window:MakeTab({
+    local Evade = Window:MakeTab({
         Name = "Evade"
     })
 
-    ItemAsylum:AddButton({
-        Name = "GUI 1",
+    Evade:AddButton({
+        Name = "Tbao Hub",
         Callback = function()
             loadstring(game:HttpGet(("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/TbaoHub.lua")))()
         end
@@ -58,14 +58,14 @@ if game.placeId == 5670218884 then
     })
 
     ItemAsylum:AddButton({
-        Name = "GUI 2",
+        Name = "Item Asylum Haxx",
         Callback = function()
             loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/ItemAsylumHaxx.lua')))()
         end
     })
 
     ItemAsylum:AddButton({
-        Name = "GUI 3",
+        Name = "not fair hub",
         Callback = function()
             loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/notfairhub.lua')))()
         end
