@@ -13,7 +13,6 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/ma
 * ESP - https://pastebin.com/UDU4AKTf
 * Fullbright - https://pastebin.com/7S3aQsQF
 * Infinite Yield - https://github.com/EdgeIY/infiniteyield/blob/master/source
-* Silent Aim - https://github.com/Averiias/Universal-SilentAim/blob/main/main.lua
 
 ### Evade
 
