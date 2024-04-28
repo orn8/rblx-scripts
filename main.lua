@@ -7,69 +7,69 @@ local Universal = Window:MakeTab({
 })
 
 Universal:AddButton({
-    Name = "ESP",
+	Name = "ESP",
 	Callback = function()
-      	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/ESP.lua')))()
-  	end
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/ESP.lua'))()
+	end
 })
 
 Universal:AddButton({
-    Name = "Fullbright",
+	Name = "Fullbright",
 	Callback = function()
-      	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/Fullbright.lua')))()
-  	end
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/Fullbright.lua'))()
+	end
 })
 
 Universal:AddButton({
-    Name = "Infinite Yield",
+	Name = "Infinite Yield",
 	Callback = function()
-      	loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/InfiniteYield.lua')))()
-  	end
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Universal/InfiniteYield.lua'))()
+	end
 })
 
 -- Evade Scripts
 if game.placeId == 9872472334 then
 
-    local Evade = Window:MakeTab({
-        Name = "Evade"
-    })
+	local Evade = Window:MakeTab({
+		Name = "Evade"
+	})
 
-    Evade:AddButton({
-        Name = "Tbao Hub",
-        Callback = function()
-            loadstring(game:HttpGet(("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/TbaoHub.lua")))()
-        end
-    })
+	Evade:AddButton({
+		Name = "Tbao Hub",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/orn8/rblx-scripts/main/Evade/TbaoHub.lua"))()
+		end
+	})
 
 end
 
 -- Item Asylum Scripts
 if game.placeId == 5670218884 then
 
-    local ItemAsylum = Window:MakeTab({
-        Name = "Item Asylum"
-    })
+	local ItemAsylum = Window:MakeTab({
+		Name = "Item Asylum"
+	})
 
-    ItemAsylum:AddButton({
-        Name = "GUI 1",
-        Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI1.lua')))()
-        end
-    })
+	ItemAsylum:AddButton({
+		Name = "GUI 1",
+		Callback = function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI1.lua'))()
+		end
+	})
 
-    ItemAsylum:AddButton({
-        Name = "Item Asylum Haxx",
-        Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/ItemAsylumHaxx.lua')))()
-        end
-    })
+	ItemAsylum:AddButton({
+		Name = "Item Asylum Haxx",
+		Callback = function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/ItemAsylumHaxx.lua'))()
+		end
+	})
 
-    ItemAsylum:AddButton({
-        Name = "not fair hub",
-        Callback = function()
-            loadstring(game:HttpGet(('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/notfairhub.lua')))()
-        end
-    })
+	ItemAsylum:AddButton({
+		Name = "not fair hub",
+		Callback = function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/notfairhub.lua'))()
+		end
+	})
 
 end
 
