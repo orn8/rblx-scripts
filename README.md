@@ -20,7 +20,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/mai
 
 ### Item Asylum
 
-* GUI 1 - https://pastebin.com/Z4qVL5tM
+* JasonA#7368's Script - https://pastebin.com/Z4qVL5tM
 * Item Asylum Haxx - https://github.com/whierror/Item-Asylum-Haxx/blob/main/Source
 * not fair hub - https://pastebin.com/tJegb7fJ
 

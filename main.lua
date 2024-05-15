@@ -51,9 +51,9 @@ if game.placeId == 5670218884 then
 	})
 
 	ItemAsylum:AddButton({
-		Name = "GUI 1",
+		Name = "JasonA#7368's Script",
 		Callback = function()
-			loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/GUI1.lua'))()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/orn8/rblx-scripts/main/Item%20Asylum/JasonA7368.lua'))()
 		end
 	})
 
